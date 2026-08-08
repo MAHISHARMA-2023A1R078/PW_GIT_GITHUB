@@ -81,3 +81,7 @@ Git works offline , too isko install krna pdta ha
 # branching , main branch and master branch 
 
 ## to see specific git log or history: use git show id ke starting part in commit id 
+
+# updated file shows M it means have a track and its updated or modified.
+
+## git blame index.html : to show all things what changed and added and all
