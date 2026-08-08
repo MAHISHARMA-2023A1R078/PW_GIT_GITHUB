@@ -70,7 +70,7 @@ Git works offline , too isko install krna pdta ha
 
 -> so use git add . to get those untracked files to the staging area from working directory. so got U TO A sign where A is Added. 
 -> git commit -m "label:meaningfull message" : to add to commit area.
--> commit history :  to check by -> git log
+-> commit history :  to check by -> git log : for snapshots.
 
 
 ## git rm --cached index.html: this is used to get files back from tracked to untracked or stagingn to wrokging directoty --> TO CONVERT FROM TRACKED TO UNTRACKED Again.
@@ -79,3 +79,5 @@ Git works offline , too isko install krna pdta ha
 
 ## shift+1 and enter to quit vim editor 
 # branching , main branch and master branch 
+
+## to see specific git log or history: use git show id ke starting part in commit id 
